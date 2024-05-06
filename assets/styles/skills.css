@@ -1,0 +1,20 @@
+.skills p{
+font-size: 0.7rem;
+text-align: center;
+}
+.skills h3{
+    text-align: center;
+}
+.progress{
+    margin-top: 5%;
+}
+.lang{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.langcode{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}

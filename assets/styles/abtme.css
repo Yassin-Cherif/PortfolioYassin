@@ -1,0 +1,17 @@
+
+  .text h2 {
+    text-align: center;
+    margin-bottom: 5%;
+  }
+  .text strong{
+    color: #e2001a;
+  }
+  .text p{
+    text-align: justify;
+    word-spacing: 0.2rem; 
+    margin-bottom: 5%;
+  }
+  #demo {
+    -webkit-box-shadow: -50px 1px 0px -11px #E2001A; 
+    box-shadow: -50px 1px 0px -11px #E2001A;
+    }
